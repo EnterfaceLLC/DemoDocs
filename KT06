@@ -1,0 +1,472 @@
+Page 1 / 8 5.9.0 6 2022
+Revised 03 / 2024
+
+5.9.0 6 SPECIFIC GRAVITY AND ABSORPTION OF AGGREGATES (Kansas Test Method KT- 06 )
+
+1. SCOPE
+
+This method of test covers the procedures for determining the specific gravity and absorption of aggregates.
+Coarse aggregate (Procedure I) represents aggregate retained on the No. 4 (4.75 mm) sieve. Fine aggregate
+(Procedure II) is all aggregate passing the No. 4 (4.75 mm) and retained on the No.100 (150 μm) sieve.
+KT- 06 reflects testing procedures found in AASHTO T 84 and T 85.
+
+2. REFERENCED DOCUMENTS
+
+2.1. Part V, 5.9; Sampling and Test Methods Foreword
+
+2.2 KT- 0 1; Sampling and Splitting of Aggregates
+
+2.3. KT-11; Moisture Tests
+
+2.4. KT-24; Determination of Free Moisture or Absorption of Aggregate for Use in Concrete
+
+2.5. ASTM E11; Woven Wire Test Sieve Cloth and Test Sieves
+
+2.6. AASHTO T 84; Specific Gravity and Absorption of Fine Aggregate
+
+2.7. AASHTO T 85; Specific Gravity and Absorption of Coarse Aggregate
+
+2.8. ASTM C128; Method for Density, Relative Density (Specific Gravity), and Absorption of Fine
+Aggregate
+
+2.9. ASTM C670; Practice for Preparing Precision and Bias Statements for Test Methods for Construction
+Materials
+
+3. PROCEDURE I: COARSE AGGREGATE
+
+3.1. Apparatus
+
+3.1.1. The balance shall conform to the requirements of Part V, 5.9; Sampling and Test Methods
+Foreword, Class G5. The balance shall be equipped with suitable apparatus for suspending the sample
+container in water from the center of weighing platform or pan of the balance.
+
+3.1.2. Bucket approximately 8 in (200 mm) in diameter and 8 in (200 mm) in height.
+
+3.1.3. Container with overflow for immersing the bucket in water.
+
+3.1.4. Drying oven capable of maintaining a uniform temperature of 230 ± 9°F (110 ± 5°C).
+
+3.1.5. Drying pans.
+
+3.1.6. Absorbent cloth.
+
+3.1.7. Standard No. 4 (4.75 mm) sieve meeting the requirements of ASTM E11.
+
+
+Page 2 / 8 5.9.0 6 2022
+Revised 03 / 2024
+
+3.2. Test Method
+
+3.2.1. Sample Preparation: This test is normally conducted on the portion of the aggregate that passes the 2
+in (50 mm) sieve and is retained on the No. 4 (4.75 mm) sieve. If the test is conducted on larger size
+particles, it shall be so noted on the test report.
+
+3.2.1.1. Select a portion of the aggregate by splitting or quartering as specified in KT- 0 1, Section 4. The
+minimum mass of the sample, all of which passes the 2 in (50 mm) sieve and is retained on the No. 4 (4.
+mm) sieve, shall be as set out in the following Table 1 :
+
+```
+Table 1
+Minimum Sample Size for Coarse Aggregate
+```
+```
+Sieve Size Minimum Mass of Samples (g)
+1 1/2 in (37.5 mm) or more 5,
+1 in (25.0 mm) 4,
+3/4 in (19.0 mm) 3,
+1/2 in (12.5 mm) or less 2,
+```
+NOTE: To select the sample size, use the largest sieve on which 5% or more of the material is specified to
+be retained.
+
+3.2.1.2. Thoroughly wash^1 the sample over the No. 4 (4.75 mm) sieve to remove dust and other adherent
+coatings.
+
+3.2.1.3. Dry the sample to a constant mass in the oven at a constant temperature of 230 ± 9°F (110 ± 5°C).
+
+NOTE: If the absorption and specific gravity values will be used as a basis for the design of concrete mixes
+where aggregates are used in a moist condition, this drying procedure may be eliminated. For an aggregate
+that has been in contact with water and that has free moisture on the particle surfaces, the percentage of free
+moisture can be determined by deducting the absorption from the total moisture content determined by KT-
+11 Section 5.1. Free moisture can also be calculated as described in KT-24 Section 6.
+
+3.2.2. Procedure
+
+3.2.2.1. Immerse the sample in water^2 and stir vigorously. Soak for a period of 24 ± 4 hours.
+
+3.2.2.2. Remove the sample from the water and bring to a saturated surface-dry condition by rolling the
+sample in a dampened, absorbent cloth. (For the purpose of this test, a saturated surface-dry condition of
+the aggregate has been reached when the particle surface appears to be moist but not shiny.)
+
+3.2.2.3. Weigh the sample immediately after obtaining the saturated surface-dry condition. Record this
+value as “B”. All masses determined in this test shall be to the nearest 1 g or 0.1% of the sample mass,
+whichever is greater.
+
+(^1) AASHTO T 85 requires dry sieving and then thoroughly wash to remove dust or other coatings from the surface.
+(^2) AASHTO T 85 requires the sample to be dried to constant mass prior to immersing in water for a period of 15 to
+19 hours.
+
+
+Page 3 / 8 5.9.0 6 2022
+Revised 03 / 2024
+
+3.2.2.4. Immediately after obtaining the saturated surface-dry mass, immerse the sample in water, stir to
+remove any entrapped air and weigh. Record this value as “C”. The water temperature shall be 77 ± 2°F
+(25 ± 1°C)^3.
+
+3.2.2.5. Dry the sample to a constant mass at a temperature of 230 ± 9°F (110 ± 5°C).
+
+3.2.2.6. Cool the sample at room temperature, until aggregate has cooled to a temperature that is
+comfortable to handle and determine the mass. Record this value as “A”.
+
+3.3. Calculations
+
+Where: A= Mass of oven-dry sample in air, g
+B= Mass of surface-dry sample in air, g
+C= Mass of saturated sample in water, g
+
+3.3.1. Bulk Specific Gravity:
+
+```
+A
+```
+B−C
+
+3.3.2. Bulk Specific Gravity Saturated Surface-Dry Basis:
+
+```
+B
+```
+B−C
+
+3.3.3. Apparent Specific Gravity:
+
+```
+A
+```
+A−C
+
+3.3.4. Absorption (%):
+
+100 (B−A)
+
+```
+A
+```
+4. PROCEDURE II: FINE AGGREGATE
+
+4.1. Apparatus
+
+4.1.1. The balance shall conform to the requirements of Part V, 5.9; Sampling and Test Methods
+Foreword, Class G2.
+
+4.1.2. Volumetric flask of known mass having a minimum capacity of 500mL and calibrated by the
+manufacturer to within:
+
+- 0.20mL at 68°F (20°C) for a 500mL flask.
+- 0.30mL at 68°F (20°C) for a 1000mL flask.
+
+(^3) AASHTO T 85 requires the water temperature to be 23 ± 1.7°C (73.4 ± 3°F). Changing the temperature to 25 ±
+1°C (77 ± 2°F) establishes a uniform temperature requirement on all water bath test-related procedures.
+
+
+Page 4 / 8 5.9.0 6 2022
+Revised 03 / 2024
+
+4.1.3. Not less than two drying pans with a bottom surface of the pan that will have no effect on the material
+and results but should allow for the presence of free moisture to be observed. A worn oxidized surface has
+been known to work well in showing the presence of free moisture. Other surfaces such as a worn aluminum
+pan or galvanized pan may also work. The pan should be flat, dry, clean and have a dull, non-absorbent
+surface.
+
+4.1.4. Drying oven capable of maintaining a uniform temperature of 230 ± 9°F (110 ± 5°C).
+
+4.1.5. Water bath having a capacity of at least 2 gal (8 L) maintained at a temperature of 77 ± 2°F (25 ± 1°C)
+and a depth approximately equal to or above the height of the bowl of the volumetric flask.
+
+4.1.6. Standard No. 4 (4.75 mm) sieve meeting requirements of ASTM E11.
+
+4.1.7. Standard No.100 (150 μm) sieve meeting requirements of ASTM E11.
+
+4.2. Test Method
+
+4.2.1. Sample Preparation: This test is conducted on that portion of aggregate passing the No. 4 (4.75 mm)
+and retained on the No.100 (150 μm) sieve.
+
+4.2.1.1. Select a portion of the aggregate by splitting or quartering as established in KT- 01 , Section 4. The
+portion selected should be of sufficient size to yield a sample weighing approximately 1,000 g all of which
+passes the No. 4 (4.75 mm) sieve and retained on the No. 100 (150 μm) sieve.
+
+4.2.1.2. Screen the portion selected over the No. 4 (4.75 mm) sieve and discard all material retained on that
+sieve.
+
+4.2.1.3. Wash the minus No. 4 (4.75 mm) material [material passing the No. 4 (4.75mm) sieve] over the
+No. 100 (150 μm) sieve to remove dust.
+
+4.2.1.4. Dry the plus No. 100 (150 μm) material [material retained on the No. 100 (150 μm) sieve] to a
+constant mass in the oven.
+
+NOTE: If the absorption and specific gravity values will be used as a basis for the design of concrete mixes
+where aggregates are used in a moist condition, this drying procedure may be eliminated. For an aggregate
+that has been in contact with water and that has free moisture on the particle surfaces, the percentage of free
+moisture can be determined by deducting the absorption from the total moisture content determined by KT-
+11 Section 5.1. Free moisture can also be calculated as described in KT-24 Section 6.
+
+4.2.2. Procedure
+
+4.2.2.1. Immerse the sample in water and stir vigorously. Soak for a period of 24 ± 4 hours.
+
+4.2.2.2. Remove the sample from the water and bring it to a saturated surface-dry condition^4. The procedure
+to be used to obtain the surface-dry condition is as follows:
+
+4.2.2.2.1. Place the saturated sample in a drying pan and allow to dry in air for a short time. Stir the sample
+regularly to ensure uniform drying.
+
+(^4) AASHTO T 84 Section 7 .2.1 uses the cone test for determining SSD condition. Under NOTE 4 (2) Provisional
+Surface Test, the use of alternative surfaces are permitted and represents the method presented in Section 4.2.2.
+
+
+Page 5 / 8 5.9.0 6 2022
+Revised 03 / 2024
+
+4.2.2.2.2. Transfer the sample to another drying pan. The surface of the pan may be of any surface that will
+have no effect on the material and results but should allow for the presence of free moisture to be observed.
+
+4.2.2.2.3. Stir the sample and check for the presence of free moisture as indicated by a presence of moisture
+on the bottom surface of the pan. This can typically be seen by a change in color or the presence of a sheen
+of moisture on the surface of the pan.
+
+NOTE: The first check should be conducted when there is some free moisture on the surface of the
+aggregate particles to ensure that a saturated surface-dry condition has not been passed. If no moisture is
+present, it is likely the SSD condition is passed, and the test must be restarted.
+
+4.2.2.2.4. Stir the sample regularly and transfer it frequently from pan to pan until a saturated surface-dry
+condition is reached as indicated by the absence of free moisture on the bottom of the pan.
+
+4.2.2.2.5. Determine the mass of the empty flask. Record the value as “F”.
+
+4.2.2.3. Immediately split out and weigh a sample of the saturated surface-dry material weighing not less
+than 500 g. Record this value as “B”. Place the sample in the flask.
+
+4.2.2.4. Fill the flask to a level slightly below the calibration mark with water at a temperature of 77 ± 2°F
+(25 ± 1°C).
+
+4.2.2.5. Rotate the flask in an inclined position to eliminate all air bubbles. Do not shake. Allow the flask
+to sit for several minutes then roll flask again. Continue the process until there are no visible air bubbles
+present.
+
+NOTE: Bubbles or foam may be dispelled by touching them carefully with a hot wire or the tip of a paper
+towel.
+
+4.2.2.6. Place the flask in the water bath until the temperature of the material inside the flask is the same as
+that of the water bath.
+
+4.2.2.7. Fill the flask to the calibrated mark, remove from the water bath and wipe all moisture from the
+outside surface.
+
+4.2.2.8. Weigh the flask and its contents to the nearest 0.1 g. Record the value as “K”.
+
+4.2.2.9. Remove the aggregate from the flask and dry to a constant mass in the oven at a temperature of 230
+± 9°F (110 ± 5 °C).
+
+4.2.2.10. Cool the sample to room temperature and weigh. Record the value as “A”.
+
+4.3. Flask Verification – Perform minimum every 12 months - Determine the mass of flask filled to the
+calibration line with water at 77°F (25°C) and subtract the mass of the flask to determine the mass of water
+the flask will hold. Record this value as “C”. This step need not be performed for every test but must be
+done a minimum of once every 12 months.
+
+4. 4. Calculations
+4. 4 .1. W=K−(F+B)
+
+
+Page 6 / 8 5.9.0 6 2022
+Revised 03 / 2024
+
+4. 4 .2. Bulk Specific Gravity:
+
+```
+A
+```
+C−W
+
+4. 4 .3. Bulk Specific Gravity (Saturated Surface-Dry Basis):
+
+```
+B
+```
+C−W
+
+4. 4 .4. Apparent Specific Gravity:
+
+```
+A
+```
+(C−W)−(B−A)
+
+4. 4 .5. Absorption (%):
+
+100 (B−A)
+
+```
+A
+```
+Where: W= Mass of water added to the flask, g
+F= Mass of empty flask, g
+K= Mass of flask, plus sample, plus water (See step in Section 4.2.2.8 above), g
+A= Mass of oven-dry sample in air, g
+B= Mass of saturated surface-dry sample in air, g
+C= Mass of water the flask will hold filled to the calibration line at 77°F (25°C)
+
+5. REPORT
+
+5.1. Record the specific gravities to the nearest 0.001. Record the absorption to the nearest 0.01%. Report
+all specific gravities to the nearest 0.001 and indicate the type of specific gravity. Report the absorption
+result to the nearest 0.1%.
+
+6. PRECISION
+
+6.1. The estimates of precision of this test method (listed in Table 2) are based on results from the
+AASHTO Materials Reference Sample Program with testing conducted by AASHTO, T 84 and T 85,
+and ASTM, C128 and C670. The significant difference between the methods is that ASTM requires a
+saturation period of 24 ± 4 hours, and AASHTO requires a saturation period of 15 to 19 hours. This
+difference has been found to have an insignificant effect on the precision indices.
+
+
+Page 7 / 8 5.9.0 6 2022
+Revised 03 / 2024
+
+```
+Table 2
+Precision for Specific Gravities
+and Absorption of Aggregates
+Coarse Aggregate Fine Aggregate
+Single
+Operator
+Precision
+```
+## 1S D2S
+
+```
+Single
+Operator
+Precision
+```
+## 1S D2S
+
+(^)
+Bulk Specific
+Gravity (Dry)
+0.009 0.025 Bulk Specific
+Gravity (Dry)
+
+## 0.011 0.
+
+```
+Bulk Specific
+Gravity (SSD)
+```
+```
+0.007 0.020 Bulk Specific
+Gravity (SSD)
+```
+## 0.0095 0.
+
+```
+App. Specific
+Gravity
+```
+```
+0.007 0.020 App. Specific
+Gravity
+```
+## 0.0095 0.
+
+```
+Absorption
+percent
+```
+```
+0.088 0. 25 Absorption
+percent
+```
+## 0.11 0.
+
+```
+Multilaboratory
+Precision 1S^ D2S^
+```
+```
+Multilaboratory
+Precision 1S^ D2S^
+```
+```
+Bulk Specific
+Gravity (Dry)
+```
+```
+0.013 0.038 Bulk Specific
+Gravity (Dry)
+```
+## 0.023 0.
+
+```
+Bulk Specific
+Gravity (SSD)
+```
+```
+0.011 0.032 Bulk Specific
+Gravity (SSD)
+```
+## 0.020 0.
+
+```
+App. Specific
+Gravity
+```
+```
+0.011 0.032 App. Specific
+Gravity
+```
+## 0.020 0.
+
+```
+Absorption
+percent
+```
+```
+0.145 0.41 Absorption
+percent
+```
+## 0.23 0.
+
+
+Page 8 / 8 5.9.0 6 2022
+Revised 03 / 2024
+
+## 7. ADDENDUM – SUPPLEMENTAL CALCULATION TO COMBINE AGGREGATE
+
+## ABSORPTION
+
+7.1. In a few special cases the specifications have an absorption requirement on each individual source.
+Procedures I and II are both used and the combined aggregate absorption must be calculated. (This
+calculation is not to be used when the specifications have an absorption requirement by Procedure I and/or
+Procedure II.
+
+7.2. Absorption of the individual source equals:
+
+Combined Absorption, Aco(%):
+
+(AbSc)(%C)+(AbSf)(%I)
+
+```
+100
+```
+Where: Aco= Combined Absorption, %
+AbSc= Absorption, Proc. I, %
+AbSf= Absorption, Proc. II, %
+%C= Percent plus No. 4 (4.75 mm) in each individual source
+%I= Percent minus No. 4 (4.75 mm) in each individual source
+
+
